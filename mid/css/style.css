@@ -29,7 +29,6 @@
     margin-left: 395px;
     width: 540px;
     height: 44px;
-    border-radius: 3px;
     background-color: #ffffff;
   }
 
@@ -100,7 +99,7 @@
 .img-main img
 {
   width: 1280px;
-    height: 700px;
+  height: 700px;
 }
 
 h1{
@@ -285,7 +284,7 @@ h3{
 .box_footer {
   padding: 0px;
   margin-top: 10px;
-    width: 1260px;
+    width: 1280px;
     height: 235px;
     background-color: #505e8a;
     text-align: center;
