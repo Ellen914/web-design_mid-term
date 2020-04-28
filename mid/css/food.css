@@ -6,6 +6,7 @@
     }
 
 .header .btn{
+    margin-top: -12px;
     border: solid 1px #9bbae9; 
     background-color:  #9bbae9;
     font-family: 微軟正黑體;
@@ -311,7 +312,7 @@
 }
 
 .information-right img{
-    float:center;
+    float:right;
 }
 
 .information-table{
