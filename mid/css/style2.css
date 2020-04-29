@@ -50,7 +50,7 @@ main{
 .intro{
     margin-top: 50px;
     height: 700px;
-    bbackground-image: url(/img/img2/main_new.jpg);
+    bbackground-image: url(../img/img2/main_new.jpg);
 }
 .intro_content{
     padding-top: 200px;
