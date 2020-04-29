@@ -16,7 +16,7 @@ article * {
     width: 1280px;
     height: 200px;
     
-    color:#e83e8c ;
+    color:#b48a4be3 ;
     
 }
 .t2{
@@ -27,7 +27,7 @@ article * {
 }
 .headersize{
     font-size: 25px;
-    font-family: KaiTi,sans-serif; 
+    font-family: 微軟正黑體; 
 }
 .border{
   border-top-style: dotted;
@@ -44,15 +44,15 @@ article * {
 .title_img{
     width: 100px;
     height: 100px;
-    background-color: #e83e8c;
+    background-color:#b48a4be3;
     border-radius:999em;
     
 }
 .title_text{
-  
-   margin-top: 30px;
+   margin: 30px;
    font-size:30px;
-   font-family:fantasy,serif,sans-serif,cursive,monospace;
+   font-family:微軟正黑體;
+   
 }
 .flexrow{
     display: flex;
@@ -69,10 +69,10 @@ article * {
 .back{
   width: 80px;
   text-decoration:none;
-  color: #e83e8c;
+  color: #b48a4be3;
 }
 .back:hover{
-  color: #f3a8cb;
+  color: #dfcbade3;
 }
 .p1{
     height: 620px;
@@ -113,14 +113,14 @@ img{
 .at{
 
     padding: 20px 20px;
-    border-color: #e83e8c;
+    border-color: #b48a4be3;
     border-style: solid;
     border-radius:10em;
-    color: #e83e8c;
+    color: #b48a4be3;
     text-decoration:none;
 }
 .at:hover{
-  background-color: #cf578f;
+  background-color: #92713ee3;
   color: white;  
 }
 .right{

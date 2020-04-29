@@ -72,9 +72,9 @@
 .btn{
     width: 150px;
     height: 50px;
-    border: solid 1px #618fd4;
-    background-color:  #618fd4;
-    box-shadow: 4px  5px rgba(1, 20, 44, 0.363);
+    border: solid 1px #c5ab62;
+    background-color:  rgb(192, 161, 120);
+    box-shadow: 4px  5px rgba(44, 27, 1, 0.363);
     font-family: 微軟正黑體;
     font-size: 24px;
     font-weight: bold;
@@ -83,7 +83,7 @@
     line-height: 50px;
     letter-spacing: normal;
     text-align: center;
-    color: #e7effd;
+    color: #ffffff;
     justify-content:center;
     align-items:center;
 }
@@ -106,7 +106,7 @@ h1{
   margin-top: -40px;
   height: 12px;
   font-family: 微軟正黑體;
-  text-shadow: 3px 3px  #0a1c2e41;
+  text-shadow: 3px 3px  #552d162f;
   font-size: 40px;
   font-weight: 1200;
   font-stretch: normal;
@@ -114,14 +114,14 @@ h1{
   line-height: 1.25;
   letter-spacing: normal;
   text-align: center;
-  color: #163555;
+  color: #552d16;
   padding: 3px 30px;
 }
 
 .line{
   width: 1150px;
     height: 3px;
-    background-color:  #163555;
+    background-color:  #552d16;
     margin-top: 12px;
     margin-left: 5px;
 
@@ -129,7 +129,7 @@ h1{
 .subline{
   width: 1150px;
     height: 1.5px;
-    background-color:  #163555;
+    background-color:  #552d16;
     margin-top: 2px;
     margin-left: 5px;
     margin-bottom: 10px;
@@ -144,7 +144,7 @@ h3{
   font-style: normal;
   line-height: 1.25;
   letter-spacing: normal;
-  color: #103f6e;
+  color: #6e4210;
   display: block;
   padding: 3px 30px;
 }
@@ -159,7 +159,7 @@ h3{
   padding: 50px;
   display:flex;
   flex-direction: column;
-  background-color: rgb(229, 244, 252);
+  background-color: rgb(252, 240, 229);
 }
 .b-food img
 {
@@ -170,7 +170,7 @@ h3{
 .b-food .btn{
   margin-left: 1000px;
   margin-top: 100px;
-  box-shadow: 4px  5px rgb(176, 209, 235);
+  box-shadow: 4px  5px rgb(235, 203, 176);
 }
 
 .b-food h3{
@@ -188,7 +188,7 @@ h3{
     font-style: normal;
     line-height: 1.25;
     letter-spacing: normal;
-    color: #0a1c2e;
+    color: #2e1b0a;
     display: block;
     padding: 3px 30px;
 
@@ -207,7 +207,7 @@ h3{
   padding: 50px;
   display:flex;
   flex-direction: column;
-  background-color: rgb(215, 233, 250);
+  background-color: rgb(207, 193, 174);
 }
 .b-room h1{
   margin-left: 0px;
@@ -234,7 +234,7 @@ h3{
     font-style: normal;
     line-height: 1.25;
     letter-spacing: normal;
-    color: #0a1c2e;
+    color: #2e1b0a;
     display: block;
     padding: 3px 30px;
 
@@ -274,12 +274,7 @@ h3{
  
 }
 
-  .vertical-line {
-		width: 1px;
-    height: 25px;
-    background-color: #778a50;
-  }
-  
+
 
 .box_footer {
   padding: 0px;
@@ -384,29 +379,29 @@ h3{
 
 .b-food a {
   text-decoration:none;
-  color: #e7effd;
+  color: #fff6e6;
 }
 
 .b-room a {
   text-decoration:none;
-  color: #e7effd;
+  color: #fff6e6;
 }
 
 .b-trans a {
   text-decoration:none;
-  color: #e7effd;
+  color: #fff6e6;
 }
 
 .dark
 {
-  border: solid 1px #42669c;
-  background-color:  #42669c;
+  border: solid 1px #8a642c;
+  background-color:  #8a642c;
   color: #0a1c2e;
 }
 
 .bright{
-  border: solid 1px #61b0d4;
-  background-color:  #61b0d4;
+  border: solid 1px #b48a4b;
+  background-color:  #b48a4b;
 }
 
 .bright_head

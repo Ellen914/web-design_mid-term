@@ -165,7 +165,7 @@
 .feature-word h3{
     font-size: 28px;
     font-weight: bold;
-    font-family: sans-serif;
+    font-family:微軟正黑體;
     padding: 0px 0px 0px 0px;
     margin-top: 5px;
     margin-bottom: 15px;
@@ -247,7 +247,7 @@
 .recommendation-title h3{
     font-size: 28px;
     font-weight: bold;
-    font-family: sans-serif;
+    font-family: 微軟正黑體;
     padding: 0px 0px 0px 0px;
     margin-top: 5px;
     margin-bottom: 15px;
@@ -297,7 +297,7 @@
 .information h3{
     font-size: 28px;
     font-weight: bold;
-    font-family: sans-serif;
+    font-family: 微軟正黑體;
     padding: 0px 0px 0px 0px;
     margin-top: 5px;
     margin-bottom: 15px;
@@ -312,7 +312,7 @@
 }
 
 .information-right img{
-    float:center;
+    float:right;
 }
 
 .information-table{
