@@ -87,6 +87,7 @@
     padding: 15px 0px 0px 0px;
     height: auto;
     color:black;
+    font-family: 微軟正黑體;
     margin: 0;
 }
 
@@ -95,11 +96,12 @@
     height: 1px;
     margin-top: 20px;
     padding: 15px 0px 0px 0px;
-    border-top: solid #D3D3D3 2px
+    border-top: solid #b48a4b 2px
 }
 
 .introduction-left p{
     font-size: 20px;
+    font-family: 微軟正黑體;
     padding: 15px 200px 0px 0px;
     height: auto;
     color:rgb(63, 60, 60);
@@ -110,18 +112,16 @@
     margin: 50px 50px 0px 0px;
     width: 120px;
     height: 40px;
-    border: solid 1px #618fd4;
-    background-color:  #618fd4;
-    box-shadow: 4px  5px rgb(176, 209, 235);
+    background-color:  #bca480;
     font-family: 微軟正黑體;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: bold;
     line-height: 20px;
     color: #e7effd;
 }
 
 .introduction-left .button:hover{
-    background-color:	#505e8a ;
+    background-color:	#c7b79e ;
 }
 
 
@@ -144,7 +144,7 @@
 .feature{
     width: 1280px;
     height: 360px;
-    background-color: #00477d;
+    background-color: #8a642c;
     display:flex;
     margin-top: 5px;
 }
@@ -158,6 +158,7 @@
 
 .feature-word h2{
     font-size: 40px;
+    font-family: 微軟正黑體;
     margin: 0;
     color: #ffffff;
 }
@@ -183,6 +184,7 @@
 
 .feature-word p{
     font-size: 18px;
+    font-family: 微軟正黑體;
     padding: 15px 0px 0px 0px;
     height: auto;
     width: auto;
@@ -214,6 +216,7 @@
 
 .carousel-inner p{
     font-size: 20px;
+    font-family: 微軟正黑體;
     padding-left: 10px;
     padding-top: 230px;
     color: white;
@@ -225,6 +228,7 @@
 }
 .feature-pic-word p{
     font-size: 18px;
+    font-family: 微軟正黑體;
     font: weight 200;
     color:white;
 }
@@ -241,6 +245,7 @@
 
 .recommendation-title h2{
     font-size: 40px;
+    font-family: 微軟正黑體;
     margin: 0;
 }
 
@@ -284,6 +289,7 @@
 
 .recommendation-pic-one p{
     font-size: 18px;
+    font-family: 微軟正黑體;
     text-align: center;
     width: inherit;
 }
@@ -307,23 +313,25 @@
 
 .information-left{
     width: 50%;
+    font-family: 微軟正黑體;
     padding-left: 30px;
-    border-right: 2px solid #00477d;
+    border-right: 0.5px solid #bca480;
 }
 
 .information-right img{
-    float:right;
+    float:center;
 }
 
 .information-table{
     margin-left: 10px;
     margin-top: 50px;
     height:25px;
-    border-left: 2px solid #00477d;
+    border-left: 2px solid #bca480;
 }
 
 .information-table h3{
     font-size: 20px;
+    font-family: 微軟正黑體;
     padding: 1px 0px 0px 10px;
     height: auto;
     color:black;
@@ -340,16 +348,18 @@
 .table-box{
     border-collapse: collapse;
     margin-bottom: 15px;
-    border-top: 2px solid #00477d;
+    border-top: 2px solid #e2d8c9;
     text-align: center;
     border-spacing: 2px;
     width: 90%;
+    line-height: 1.8;
     table-layout: fixed;
 
 }
 
 .table-box p {
     margin: 0;
+    font-family: 微軟正黑體;
 }
 
 .table-box thead{
@@ -360,18 +370,20 @@
     font-size: 100%;
     text-align: center;
     height:60px;
-    border-bottom: 1px solid #a2cbe2;
+    color:#5c5c5c;
+    border-bottom: 1px solid #e2d8c9;
 }
 .table-box tbody tr{
     display: table-row;
     font-size: 100%;
     text-align: center;
     height:50px;
-    border-bottom: 1px solid #a2cbe2;
+
+    border-bottom: 1px solid #e2d8c9;
 }
 
 .table-box tbody tr:nth-child(odd) {
-    background-color:rgb(236, 246, 250);
+    background-color:#f9f9f9;
 }
 
 .information-table-word{
@@ -379,6 +391,7 @@
 }
 .information-table-word p {
     font-size: 14px;
+    font-family: 微軟正黑體;
     padding-top: 5px;
     height: auto;
     color:rgb(63, 60, 60);
@@ -387,6 +400,7 @@
 
 .information-right{
     width: 50%;
+    font-family: 微軟正黑體;
     padding-left: 50px;
 }
 
@@ -401,13 +415,12 @@
 }
 
 .black{
-    color: black;
+    color:#442f0f;
     background-color: transparent;
 }
 
 .blue{
-    color: #00477d;
-    
+    color: #bca480;
     background-color: transparent;
 }
 
